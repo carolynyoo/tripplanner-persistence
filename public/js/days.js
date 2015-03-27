@@ -22,7 +22,7 @@ $(document).ready(function() {
       });
     }
   });
-});
+})
 
 var switchCurrentDay = function(day, $dayBtn) {
   // get current day data
