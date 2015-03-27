@@ -1,5 +1,4 @@
 /*
-
 model
 - wire up event listeners
 - on click, find the object cooresponding to the id selected
